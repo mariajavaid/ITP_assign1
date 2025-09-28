@@ -6,7 +6,7 @@ string ones []={"","one","two","three","four","five","six","seven","eight","nine
 string teens []={"ten","eleven","twelve","thirteen","fourteen","fifteen","sixteen","seventeen","eighteen","nineteen"};
 string tens []={"","","twenty","thirty","forty","fifty","sixty","seventy","eighty","ninety"};   
 int hundred,thousand,thousands,tenThousand,hundredThousand,teenThousand;
-string result=" ";
+
 cout<<"Enter an amount in figures: ";
 cin>>n;
 if (n>999999) {
